@@ -1,3 +1,4 @@
+//贴吧的帖子加载是用ajax的，这段代码不能处理这种情况。
 var configs = {
     domains: ["baidu.com"],
     scanUrls: ["http://tieba.baidu.com/f?kw=java&fr=wwwt"],
